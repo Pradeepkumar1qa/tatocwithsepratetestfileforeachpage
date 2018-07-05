@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="2" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="12116" started-at="2018-07-05T18:00:05Z" finished-at="2018-07-05T18:00:18Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="12116" started-at="2018-07-05T18:00:05Z" finished-at="2018-07-05T18:00:18Z">
+      <class name="com.qait.testclass.TestClassForWelcomePage">
+        <test-method status="PASS" signature="launchbrowser()" name="launchbrowser" duration-ms="5392" started-at="2018-07-05T18:00:05Z" finished-at="2018-07-05T18:00:11Z">
+        </test-method>
+        <test-method status="PASS" signature="executingTestcases_through_oneby_one_pages()" name="executingTestcases_through_oneby_one_pages" duration-ms="6706" started-at="2018-07-05T18:00:11Z" depends-on-methods="com.qait.testclass.TestClassForWelcomePage.launchbrowser" finished-at="2018-07-05T18:00:18Z">
+        </test-method>
+      </class>
+    </test>
+  </suite>
+</testng-results>

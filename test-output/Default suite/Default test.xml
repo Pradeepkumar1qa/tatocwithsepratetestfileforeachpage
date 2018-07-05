@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite hostname="ASDW0041" name="com.qait.testclass.TestClassForWelcomePage" tests="2" failures="0" timestamp="5 Jul 2018 12:30:18 GMT" time="12.116" errors="0">
+  <testcase name="launchbrowser" time="5.392" classname="com.qait.testclass.TestClassForWelcomePage"/>
+  <testcase name="executingTestcases_through_oneby_one_pages" time="6.706" classname="com.qait.testclass.TestClassForWelcomePage"/>
+</testsuite>
